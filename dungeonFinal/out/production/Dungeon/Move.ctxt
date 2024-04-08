@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\n\ @author\ Frankie\n\ @version\ 1.0\n
+comment1.params=row\ col
+comment1.target=Move(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

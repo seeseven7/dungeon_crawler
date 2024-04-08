@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Exit
+comment0.text=\n\ @author\ Frankie\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Exit()
+comment1.text=\n\ Once\ you\ reach\ the\ exit,\ you\ end\ the\ level.\ \n\ Should\ be\ represented\ by\ the\ character\ \u2018@\u2019,\ \n\ because\ that\u2019s\ where\ you\ are\ going.\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ @author\ Frankie\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ \ This\ is\ where\ our\ main\ method\ resides.\ \ \n\ \ You\ should\ create\ a\ game\ object\ and\ play()\ it.\n
+numComments=2

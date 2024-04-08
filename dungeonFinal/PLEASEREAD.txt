@@ -1,0 +1,6 @@
+I kept getting an error regarding JUNIT tests where it kept saying that the library didn't exist.
+I tried fixing it through plugins, installing dependencies, and tweaking around the IntelliJ setting.
+I ended up just leaving the tests there, but without actually running them.
+
+Thank you for your understanding,
+- Professional Java Developer Frankie Balla

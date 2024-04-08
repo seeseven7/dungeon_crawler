@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ @author\ Frankie\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ \ Should\ be\ represented\ by\ the\ character\ \u2018*\u2019,\ because\ \n\ \ the\ player\ is\ the\ star\ of\ the\ show\ after\ all.\n
+numComments=2
